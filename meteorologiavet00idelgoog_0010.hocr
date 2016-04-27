@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./meteorologiavet00idelgoog_0010.png"; bbox 0 0 2806 4814; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 83 1371 1103 1570">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 83 1371 1103 1570">
+     <span class='ocr_line' id='line_1_1' title="bbox 83 1371 1103 1570; baseline -0.003 -39"><span class='ocrx_word' id='word_1_1' title='bbox 83 1433 495 1570; x_wconf 71' lang='lat' dir='ltr'>Ammnno</span> <span class='ocrx_word' id='word_1_2' title='bbox 538 1371 635 1528; x_wconf 40' lang='lat' dir='ltr'><strong>‘An</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 691 1434 1103 1531; x_wconf 70' lang='lat' dir='ltr'>ammom</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 277 1762 789 1828">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 277 1762 789 1828">
+     <span class='ocr_line' id='line_1_2' title="bbox 277 1762 789 1828; baseline -0.008 0"><span class='ocrx_word' id='word_1_4' title='bbox 277 1762 285 1773; x_wconf 87' lang='lat'><strong><em>‘</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 370 1769 627 1828; x_wconf 71' lang='lat' dir='ltr'><strong>GERMANORUM</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 650 1769 789 1824; x_wconf 71' lang='lat' dir='ltr'>nsscoffl</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1408 4814">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1408 4814">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1408 4814; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1408 4814; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
